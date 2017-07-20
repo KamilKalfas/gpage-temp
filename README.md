@@ -1,10 +1,10 @@
 # Smth smth
-- [KKK-001](#medium-title)
-- [KKK-001](#medium-title)
-- [KKK-002](#medium-title)
-- [KKK-002](#medium-title)
-- [KKK-003](#medium-title)
-- [KKK-003](#medium-title)
+- [KKK-001](#kkk-001)
+- [KKK-001](#kkk-001)
+- [KKK-002](#kkk-002)
+- [KKK-002](#kkk-002)
+- [KKK-003](#kkk-003)
+- [KKK-003](#kkk-003)
 
 ## KKK-001
 ### AC1
